@@ -1,4 +1,4 @@
-Instructions for installation of packages.
+## Instructions for installation of packages.
 
 $sudo pip install virtualenv
 
@@ -14,12 +14,16 @@ $pip freeze
 
 There should not be anythin installed.
 
-Install numpy,pandas,matplotlib, ipython[all] and seaborn
+# Install numpy,pandas,matplotlib, ipython[all] and seaborn
 
 pip install numpy
+
 pip install pandas
+
 pip install matplotlib
+
 pip install ipython[all]
+
 pip install seaborn
 
 Now you are good to run the notebook.
